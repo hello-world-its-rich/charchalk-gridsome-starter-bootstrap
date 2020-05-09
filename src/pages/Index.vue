@@ -75,7 +75,7 @@
 
  <b-card
     title="10 Pack"
-      img-src="http://charchalk.imgix.net/2020/04/charbagmobile.jpg?auto=format"
+      img-src="http://charchalk.imgix.net/2020/04/charbagmobile.jpg?auto=format&h=150&w=150"
     img-alt="Image"
     img-top
     tag="article"

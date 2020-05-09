@@ -16,6 +16,8 @@ footer {
 
 .footer-copyright{
 
+         font-family: "Akkurat Mono";
+
 color: white;
 padding-bottom: 20px;
    text-align: left;

@@ -38,6 +38,16 @@ nav {
   margin-bottom: 20px;
 }
 
+.nav--link {
+           font-family: "Akkurat Mono";
+    font-size: 25px !important;
+    color: white;
+    text-transform: uppercase;
+    &:hover {
+      text-decoration: none;
+    }
+}
+
 .logo-home {
   font-size: 24px;
   max-width: 75%;
