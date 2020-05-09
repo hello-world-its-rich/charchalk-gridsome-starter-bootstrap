@@ -8,7 +8,7 @@
         <b-navbar-brand>
         <g-link class="logo-home logo-desktop" to="/"><img class="logo-image" alt="logo" src="http://charchalk.imgix.net/2020/03/charchalkwhite@2x.png"></g-link>
 
-        <g-link class="logo-home logo–mobile" to="/"><img class="logo-image" alt="logo" src="http://charchalk.imgix.net/2020/03/charchalkwhite@2x.png"></g-link>
+        <g-link class="logo-home logo–mobile" to="/"><img class="logo-image" position="center" alt="logo" src="http://charchalk.imgix.net/2020/03/charchalkwhite@2x.png"></g-link>
       </b-navbar-brand>
       <b-navbar-toggle target="nav_collapse"></b-navbar-toggle>
       <b-collapse is-nav id="nav_collapse">
@@ -86,4 +86,6 @@ nav {
 .active--exact {
   font-weight: bold;
 }
+
+
 </style>

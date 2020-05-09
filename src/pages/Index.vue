@@ -1,8 +1,8 @@
 <template>
   <Layout>
 
-    <p>
-     Our wet-to-dry formula contains zero alcohol, won’t dry your hands out and leaves you with a long-lasting, secure grip. The perfect addition to your at-home workouts.
+    <p class="text-center">
+     Our wet-to-dry formula contains zero alcohol, won’t dry your hands out and leaves you with a long-lasting, secure grip. <br>The perfect addition to your at-home workouts.
      <br><br>
      All tubes are hand-poured in the USA 🇺🇸 
     </p>
@@ -67,8 +67,8 @@
 
 </div>
 
-<h2>Wholesale + Retail</h2>
-<p>Traditional white chalk can make a mess and become a nightmare to clean. CHAR is a premium alternative that is guaranteed to be a more hygienic experience than putting your hands in the communal chalk bucket. Take advantage of our wholesale pricing with our 10-pack and 20-pack cases that feature half Lunar Gray tubes and half Volcanic Black. Contact us for personalized options.</p>
+<h2 class="text-center">Wholesale + Retail</h2>
+<p class="text-center">Traditional white chalk can make a mess and become a nightmare to clean. CHAR is a premium alternative that is guaranteed to be a more hygienic experience than putting your hands in the communal chalk bucket. Take advantage of our wholesale pricing with our 10-pack and 20-pack cases that feature half Lunar Gray tubes and half Volcanic Black. Contact us for personalized options.</p>
 
  <b-card-group deck>
 
