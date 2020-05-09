@@ -1,7 +1,7 @@
 module.exports = {
-  siteName: 'Gridsome starter bootstrap',
-  siteDescription: 'A starter project for Gridsome with Bootstrap and some other useful tools.',
-  siteUrl: 'https://gridsome-starter-bootstrap.loke.dev',
+  siteName: 'CHAR Chalk - Join The Dark Side',
+  siteDescription: 'CHAR is the world’s first activated charcoal chalk in a handheld tube. No more mess, no more waste.',
+  siteUrl: 'https://charchalk.com',
   plugins: [
     {
       use: '@gridsome/source-filesystem',
@@ -18,7 +18,7 @@ module.exports = {
     {
       use: '@gridsome/plugin-google-analytics',
       options: {
-        id: 'UA-72659574-10'
+        id: ''
       }
     },
     {

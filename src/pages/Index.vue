@@ -1,15 +1,122 @@
 <template>
   <Layout>
-    <img class="greet-image" src="../../uploads/hello.svg" />
 
-    <h2 class="mb-4">Gridsome starter bootstrap</h2>
     <p>
-      This is a starter project for Gridsome that comes with many features out of the box. It utilizes Bootstrap that is well known
-      for powerful styling and layout. Ready to be deployed, automagically imports data to CMS and sets up your /admin page for easy
-      access to edit your content. 
+     Our wet-to-dry formula contains zero alcohol, won’t dry your hands out and leaves you with a long-lasting, secure grip. The perfect addition to your at-home workouts.
+     <br><br>
+     All tubes are hand-poured in the USA 🇺🇸 
     </p>
+    <div>
+          <b-card-group deck>
 
-    <p>
+  <b-card
+    title="The Duo"
+    img-src="http://charchalk.imgix.net/2020/03/CHAR-Sept28_2019_039-1.png"
+    img-alt="Image"
+    img-top
+    tag="article"
+    style="max-width: 40rem;"
+    class="mb-2"
+    bg-variant="secondary"
+    text-variant="white"
+  >
+<p class="price">$36.99</p>
+      <b-button href="https://charchalk.com/?add-to-cart=1067" variant="primary">ADD TO CART</b-button>
+
+  </b-card>
+
+
+  <b-card
+    title="Lunar Grey"
+    img-src="http://charchalk.imgix.net/2020/03/lunargreysidebyside.png"
+    img-alt="Image"
+    img-top
+    tag="article"
+    style="max-width: 20rem;"
+    class="mb-2"
+    bg-variant="secondary"
+    text-variant="white"
+  >
+<p class="price">$22.99</p>
+
+      <b-button href="https://charchalk.com/?add-to-cart=848" variant="primary">ADD TO CART</b-button>
+
+  </b-card>
+
+
+  <b-card
+    title="The Duo"
+    img-src="http://charchalk.imgix.net/2020/03/volcanicblacksidebyside.png"
+    img-alt="Image"
+    img-top
+    tag="article"
+    style="max-width: 20rem;"
+    class="mb-2"
+     bg-variant="secondary"
+     text-variant="white"
+  >
+<p class="price">$22.99</p>
+
+      <b-button href="https://charchalk.com/?add-to-cart=745" variant="primary">ADD TO CART</b-button>
+
+  </b-card>
+
+
+    </b-card-group>
+
+
+</div>
+
+<h2>Wholesale + Retail</h2>
+<p>Traditional white chalk can make a mess and become a nightmare to clean. CHAR is a premium alternative that is guaranteed to be a more hygienic experience than putting your hands in the communal chalk bucket. Take advantage of our wholesale pricing with our 10-pack and 20-pack cases that feature half Lunar Gray tubes and half Volcanic Black. Contact us for personalized options.</p>
+
+ <b-card-group deck>
+
+
+ <b-card
+    title="10 Pack"
+    img-src="http://charchalk.imgix.net/2019/10/CHAR-Sept28_2019_153-1024x683.jpg"
+    img-alt="Image"
+    img-top
+    tag="article"
+    style="max-width: 20rem;"
+    class="mb-2 mx-auto"
+    bg-variant="secondary"
+    text-variant="white"
+  >
+<p class="price">$149.94</p>
+
+      <b-button href="https://charchalk.com/?add-to-cart=1353" variant="primary">ADD TO CART</b-button>
+
+  </b-card>
+  <b-card
+    title="20 Pack"
+    img-src="http://charchalk.imgix.net/2020/03/charbag.jpg"
+    img-alt="Image"
+    img-top
+    tag="article"
+    style="max-width: 20rem;"
+    class="mb-2 mx-auto"
+     bg-variant="secondary"
+     text-variant="white"
+     title-tag="h2"
+
+  >
+<p class="price">$249.94</p>
+
+      <b-button href="https://charchalk.com/?add-to-cart=1354" variant="primary">ADD TO CART</b-button>
+
+  </b-card>
+
+
+ 
+
+
+
+
+    </b-card-group>
+
+    <!-- <p>
       It is designed to use Netlify, Forestry and Github which all have very fair free tier to their services, so you wont need to pay
       for monthly subscriptions and costly hosting fees.
     </p>
@@ -78,7 +185,7 @@
       <li><code>yarn dev</code> to start local dev server at <code>http://localhost:8080</code></li>
 
       <li>Happy hacking 🎉🙌</li>
-    </ol>
+    </ol> -->
 
   </Layout>
 </template>
@@ -86,7 +193,7 @@
 <script>
 export default {
   metaInfo: {
-    title: 'Gridsome starter bootstrap'
+    title: 'Shop CharChalk.com'
   }
 }
 </script>
@@ -99,4 +206,26 @@ export default {
   max-width: 500px;
   padding-bottom: 50px;
 }
+p {        text-align: left;
+    font-size: 20px;
+    color: #FFFFFF;
+    line-height: 30px;
+    letter-spacing: 1.37px;}
+
+footer, b-card, #app {background-color: black;}
+
+h2 {
+      text-align: left;
+    font-size: 30px;
+    letter-spacing: 1.96px;
+    color: #FFFFFF;
+}
+
+b-card {
+  text-align: center;
+}
+
+template { background-color: #000;}
+
+
 </style>
