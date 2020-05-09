@@ -6,7 +6,7 @@
 <meta property="og:video:height" content="720" />
     <b-navbar class="p-0" toggleable="md" type="light">
         <b-navbar-brand>
-                  <g-link class="logo-home logo–desktop" to="/"><img class="logo-image" alt="logo" src="http://charchalk.imgix.net/03/charchalkblack@2x.png"></g-link>
+        <g-link class="logo-home logo-desktop" to="/"><img class="logo-image" alt="logo" src="http://charchalk.imgix.net/03/charchalkblack@2x.png"></g-link>
 
         <g-link class="logo-home logo–mobile" to="/"><img class="logo-image" alt="logo" src="http://charchalk.imgix.net/03/charchalkblack@2x.png"></g-link>
       </b-navbar-brand>

@@ -36,12 +36,11 @@ body {
 #app {
   display: flex;
   flex-direction: column;
-  height: 100%;
 }
 
 #content-wrapper {
   flex: 1 0 auto;
-  max-width: 950px;
+  max-width: 1200px;
   width: 90vw;
   margin: 0 auto;
 }
