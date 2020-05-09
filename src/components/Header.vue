@@ -38,6 +38,20 @@ nav {
   margin-bottom: 20px;
 }
 
+a.btn.btn-primary {
+    font-size: 20px;
+    text-transform: uppercase;
+    background-clip: border-box;
+    border-top-width: 3px;
+    border-right-width: 3px;
+    border-bottom-width: 3px;
+    border-left-width: 3px;
+    border-top-left-radius: 35px;
+    border-top-right-radius: 35px;
+    border-bottom-left-radius: 35px;
+    border-bottom-right-radius: 35px;
+}
+
 .nav--link {
            font-family: "Akkurat Mono";
     font-size: 25px !important;

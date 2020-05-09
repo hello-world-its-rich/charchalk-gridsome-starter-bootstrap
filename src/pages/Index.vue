@@ -25,7 +25,7 @@
     text-variant="white"
   >
 <p class="price">$36.99</p>
-      <b-button href="https://charchalk.com/?add-to-cart=1067" variant="primary">ADD TO CART</b-button>
+      <b-button href="https://charchalk.com/?add-to-cart=1067&utm_source=js&utm_medium=lp" variant="primary">ADD TO CART</b-button>
 
   </b-card>
 
@@ -42,7 +42,7 @@
   >
 <p class="price">$22.99</p>
 
-      <b-button href="https://charchalk.com/?add-to-cart=848" variant="primary">ADD TO CART</b-button>
+      <b-button href="https://charchalk.com/?add-to-cart=848&utm_source=js&utm_medium=lp" variant="primary">ADD TO CART</b-button>
 
   </b-card> 
 
@@ -59,7 +59,7 @@
   >
 <p class="price">$22.99</p>
 
-      <b-button href="https://charchalk.com/?add-to-cart=745" variant="primary">ADD TO CART</b-button>
+      <b-button href="https://charchalk.com/?add-to-cart=745&utm_source=js&utm_medium=lp" variant="primary">ADD TO CART</b-button>
 
   </b-card>
 
@@ -87,7 +87,7 @@
     img-href="https://charchalk.com/?add-to-cart=1353"
   >
 <p class="price">$149.94</p>
-      <b-button href="https://charchalk.com/?add-to-cart=1353" variant="primary">ADD TO CART</b-button>
+      <b-button href="https://charchalk.com/?add-to-cart=1353&utm_source=js&utm_medium=l" variant="primary">ADD TO CART</b-button>
 
   </b-card>
 
@@ -103,11 +103,12 @@
     class="mb-2 mx-auto text-center title"
      bg-variant="secondary"
      text-variant="white"
+     img-href="www.google.com"
   >
 
 <p class="price">$249.94</p>
 
-      <b-button href="https://charchalk.com/?add-to-cart=1354" variant="primary">ADD TO CART</b-button>
+      <b-button href="https://charchalk.com/?add-to-cart=1354&utm_source=js&utm_medium=l" variant="primary">ADD TO CART</b-button>
 
   </b-card>
 
