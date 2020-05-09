@@ -6,7 +6,7 @@
 <div></div>
 </div>
 
-    <p class="text-center">
+    <p class="">
      Our wet-to-dry formula contains zero alcohol, won’t dry your hands out and leaves you with a long-lasting, secure grip. <br>The perfect addition to your at-home workouts.
      <br><br>
      All tubes are hand-poured in the USA 🇺🇸 
@@ -69,8 +69,8 @@
 
 </div>
 
-<h2 class="text-center">Wholesale + Retail</h2>
-<p class="text-center">Traditional white chalk can make a mess and become a nightmare to clean. CHAR is a premium alternative that is guaranteed to be a more hygienic experience than putting your hands in the communal chalk bucket. Take advantage of our wholesale pricing with our 10-pack and 20-pack cases that feature half Lunar Gray tubes and half Volcanic Black. Contact us for personalized options.</p>
+<h2 class="">Wholesale + Retail</h2>
+<p class="">Traditional white chalk can make a mess and become a nightmare to clean. CHAR is a premium alternative that is guaranteed to be a more hygienic experience than putting your hands in the communal chalk bucket. Take advantage of our wholesale pricing with our 10-pack and 20-pack cases that feature half Lunar Gray tubes and half Volcanic Black. Contact us for personalized options.</p>
 
  <b-card-group deck>
 
@@ -119,6 +119,7 @@
 
 
     </b-card-group>
+
 
     <!-- <p>
       It is designed to use Netlify, Forestry and Github which all have very fair free tier to their services, so you wont need to pay
@@ -197,7 +198,7 @@
 <script>
 export default {
   metaInfo: {
-    title: 'Shop CharChalk.com'
+    title: 'CHAR Chalk'
   }
 }
 </script>

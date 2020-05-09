@@ -1,5 +1,5 @@
 module.exports = {
-  siteName: 'CHAR Chalk - Join The Dark Side',
+  siteName: 'Join The Dark Side',
   siteDescription: 'CHAR is the world’s first activated charcoal chalk in a handheld tube. No more mess, no more waste.',
   siteUrl: 'https://charchalk.com',
   plugins: [
