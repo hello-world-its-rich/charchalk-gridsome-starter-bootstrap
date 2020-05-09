@@ -5,6 +5,7 @@
 
 <div></div>
 </div>
+
     <p class="text-center">
      Our wet-to-dry formula contains zero alcohol, won’t dry your hands out and leaves you with a long-lasting, secure grip. <br>The perfect addition to your at-home workouts.
      <br><br>

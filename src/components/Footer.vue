@@ -8,7 +8,7 @@
   </footer>
 </template>
 
-<style lang="scss">
+<style lang="css">
 footer {
   width: 100%;
   background-color: #fff;
@@ -24,6 +24,8 @@ padding-bottom: 20px;
     font-size: 30px;
     letter-spacing: 1.96px;
     color: #FFFFFF;
+    text-transform: uppercase;
+    
 }
 
 .instagram svg {
