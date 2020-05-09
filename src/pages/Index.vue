@@ -16,7 +16,7 @@
     img-top
     tag="article"
     style="max-width: 20rem;"
-    class="mb-2 mx-auto text-center"
+    class="mb-2 mx-auto text-center title"
     bg-variant="secondary"
     text-variant="white"
   >
@@ -33,7 +33,7 @@
     img-top
     tag="article"
     style="max-width: 20rem;"
-    class="mb-2 mx-auto text-center"
+    class="mb-2 mx-auto text-center title"
     bg-variant="secondary"
     text-variant="white"
   >
@@ -51,7 +51,7 @@
     img-top
     tag="article"
     style="max-width: 20rem;"
-    class="mb-2 mx-auto text-center"
+    class="mb-2 mx-auto text-center title"
      bg-variant="secondary"
      text-variant="white"
   >
@@ -80,7 +80,7 @@
     img-top
     tag="article"
     style="max-width: 20rem;"
-    class="mb-2 mx-auto text-center"
+    class="mb-2 mx-auto text-center title"
     bg-variant="secondary"
     text-variant="white"
   >
@@ -96,7 +96,7 @@
     img-top
     tag="article"
     style="max-width: 20rem;"
-    class="mb-2 mx-auto text-center"
+    class="mb-2 mx-auto text-center title"
      bg-variant="secondary"
      text-variant="white"
   >
@@ -209,18 +209,25 @@ p {        text-align: left;
     color: #FFFFFF;
     line-height: 30px;
     letter-spacing: 1.37px;
+      font-family: "Akkurat Mono";
+
    }
 
 .price {
    text-align: center;
+         font-family: "Akkurat Mono";
+
 }
 footer, b-card, #app {background-color: black;}
 
-h2 {
+h2, .title {
       text-align: left;
     font-size: 30px;
     letter-spacing: 1.96px;
     color: #FFFFFF;
+      font-family: "Akkurat Mono";
+      text-transform: uppercase;
+
 }
 
 b-card {

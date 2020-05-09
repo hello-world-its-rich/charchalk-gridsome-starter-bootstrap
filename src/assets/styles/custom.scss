@@ -31,3 +31,16 @@ $grid-breakpoints: (
   lg: 992px,
   xl: 1300px
 );
+
+
+@font-face {
+  font-family: Akkurat Mono;
+  src: url(https://charchalk.com/wp-content/uploads/2020/03/AkkurMonReg.woff) format("woff"), url(https://charchalk.com/wp-content/uploads/2020/03/AkkurMonReg.ttf) format("truetype"), url(https://charchalk.com/wp-content/uploads/2020/03/AkkurMonReg.otf) format("opentype"), url(https://charchalk.com/wp-content/uploads/2020/03/AkkurMonReg.svg#akkurat_mono) format("svg");
+  font-display: auto;
+}
+
+@font-face {
+  font-family: Cimo;
+  src: url(https://charchalk.com/wp-content/uploads/2020/03/Cimo-150.woff) format("woff"), url(https://charchalk.com/wp-content/uploads/2020/03/Cimo-150.ttf) format("truetype"), url(https://charchalk.com/wp-content/uploads/2020/03/Cimo-150.otf) format("opentype"), url(https://charchalk.com/wp-content/uploads/2020/03/Cimo-150.svg#cimo) format("svg");
+  font-display: auto;
+}
