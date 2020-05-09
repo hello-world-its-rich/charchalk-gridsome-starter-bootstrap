@@ -70,8 +70,10 @@ nav {
   }
 }
 
+
 .logo-image {
-  width: 250px;
+    width: 250px;
+    padding-left: 5px;
 }
 
 .nav--link {
