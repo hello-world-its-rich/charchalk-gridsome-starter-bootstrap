@@ -11,12 +11,12 @@
 
   <b-card
     title="The Duo"
-    img-src="http://charchalk.imgix.net/2020/03/CHAR-Sept28_2019_039-1.png"
+    img-src="http://charchalk.imgix.net/2020/03/CHAR-Sept28_2019_039-1.png?auto=format"
     img-alt="Image"
     img-top
     tag="article"
     style="max-width: 20rem;"
-    class="mb-2"
+    class="mb-2 mx-auto text-center"
     bg-variant="secondary"
     text-variant="white"
   >
@@ -28,12 +28,12 @@
 
   <b-card
     title="Lunar Grey"
-    img-src="http://charchalk.imgix.net/2020/03/lunargreysidebyside.png"
+    img-src="http://charchalk.imgix.net/2020/03/lunargreysidebyside.png?auto=format"
     img-alt="Image"
     img-top
     tag="article"
     style="max-width: 20rem;"
-    class="mb-2"
+    class="mb-2 mx-auto text-center"
     bg-variant="secondary"
     text-variant="white"
   >
@@ -46,12 +46,12 @@
 
   <b-card
     title="The Duo"
-    img-src="http://charchalk.imgix.net/2020/03/volcanicblacksidebyside.png"
+    img-src="http://charchalk.imgix.net/2020/03/volcanicblacksidebyside.png?auto=format"
     img-alt="Image"
     img-top
     tag="article"
     style="max-width: 20rem;"
-    class="mb-2"
+    class="mb-2 mx-auto text-center"
      bg-variant="secondary"
      text-variant="white"
   >
@@ -75,12 +75,12 @@
 
  <b-card
     title="10 Pack"
-    img-src="http://charchalk.imgix.net/2019/10/CHAR-Sept28_2019_153-1024x683.jpg"
+    img-src="http://charchalk.imgix.net/2019/10/CHAR-Sept28_2019_153-1024x683.jpg?auto=format"
     img-alt="Image"
     img-top
     tag="article"
     style="max-width: 20rem;"
-    class="mb-2 mx-auto"
+    class="mb-2 mx-auto text-center"
     bg-variant="secondary"
     text-variant="white"
   >
@@ -91,16 +91,14 @@
   </b-card>
   <b-card
     title="20 Pack"
-    img-src="http://charchalk.imgix.net/2020/03/charbag.jpg"
+    img-src="http://charchalk.imgix.net/2020/03/charbag.jpg?auto=format"
     img-alt="Image"
     img-top
     tag="article"
     style="max-width: 20rem;"
-    class="mb-2 mx-auto"
+    class="mb-2 mx-auto text-center"
      bg-variant="secondary"
      text-variant="white"
-     title-tag="h2"
-
   >
 <p class="price">$249.94</p>
 
@@ -210,8 +208,12 @@ p {        text-align: left;
     font-size: 20px;
     color: #FFFFFF;
     line-height: 30px;
-    letter-spacing: 1.37px;}
+    letter-spacing: 1.37px;
+   }
 
+.price {
+   text-align: center;
+}
 footer, b-card, #app {background-color: black;}
 
 h2 {

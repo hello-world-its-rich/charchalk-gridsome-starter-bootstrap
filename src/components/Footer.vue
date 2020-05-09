@@ -13,4 +13,9 @@ footer {
   margin-top: 6rem;
   background-color: #fff;
 }
+
+.footer-copyright{
+
+color: white;
+}
 </style>
