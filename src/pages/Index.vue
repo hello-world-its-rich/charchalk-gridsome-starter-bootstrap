@@ -1,6 +1,8 @@
 <template>
   <Layout>
-
+    <div class="container">
+      <img class="logo-image" alt="logo" src="http://charchalk.imgix.net/2020/03/charchalkwhite@2x.png">
+</div>
     <p class="text-center">
      Our wet-to-dry formula contains zero alcohol, won’t dry your hands out and leaves you with a long-lasting, secure grip. <br>The perfect addition to your at-home workouts.
      <br><br>
@@ -233,6 +235,14 @@ h2, .title {
 
 b-card {
   text-align: center;
+}
+
+.logo-image {padding-bottom: 20px;}
+
+.container {
+      display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 template { background-color: #000;}
