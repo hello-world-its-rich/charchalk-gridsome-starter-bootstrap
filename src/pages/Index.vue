@@ -75,7 +75,7 @@
 
  <b-card
     title="10 Pack"
-    img-src="http://charchalk.imgix.net/2019/10/CHAR-Sept28_2019_153-1024x683.jpg?auto=format"
+      img-src="http://charchalk.imgix.net/2020/04/charbagmobile.jpg?auto=format"
     img-alt="Image"
     img-top
     tag="article"
@@ -91,7 +91,7 @@
   </b-card>
   <b-card
     title="20 Pack"
-    img-src="http://charchalk.imgix.net/2020/03/charbag.jpg?auto=format"
+    img-src="http://charchalk.imgix.net/2020/04/CHAR-Sept28_2019_153.png?auto=format"
     img-alt="Image"
     img-top
     tag="article"

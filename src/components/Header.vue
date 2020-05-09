@@ -51,9 +51,16 @@ nav {
   }
 }
 
+.b-navbar-brand { display: flex;
+    align-items: center;
+    justify-content: center;}
 .logo-desktop {
   @media(max-width: 419px) {
     display: none;
+    text-align: center;
+     display: flex;
+    align-items: center;
+    justify-content: center;
   }
   @media (min-width: 420px) {
     display: default;
@@ -63,6 +70,10 @@ nav {
 .logo–mobile {
   @media(max-width: 419px) {
     display: default;
+    text-align: center;
+     display: flex;
+    align-items: center;
+    justify-content: center;
   }
   @media (min-width: 420px) {
     display: none;
