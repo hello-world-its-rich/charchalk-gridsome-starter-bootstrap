@@ -91,7 +91,6 @@
   </b-card>
 
 
-  <a href="https://charchalk.com/?add-to-cart=1354">
   
   <b-card
     title="20 Pack"
@@ -109,7 +108,7 @@
 
       <b-button href="https://charchalk.com/?add-to-cart=1354" variant="primary">ADD TO CART</b-button>
 
-  </b-card></a>
+  </b-card>
 
 
  
