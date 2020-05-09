@@ -24,7 +24,6 @@
 
   </b-card>
 
-<a href="https://charchalk.com/?add-to-cart=848">
   <b-card
     title="Lunar Grey"
     img-src="http://charchalk.imgix.net/2020/03/lunargreysidebyside.png?auto=format"
@@ -40,9 +39,8 @@
 
       <b-button href="https://charchalk.com/?add-to-cart=848" variant="primary">ADD TO CART</b-button>
 
-  </b-card> </a>
+  </b-card> 
 
-<a href="https://charchalk.com/?add-to-cart=745">
   <b-card
     title="The Duo"
     img-src="http://charchalk.imgix.net/2020/03/volcanicblacksidebyside.png?auto=format"
@@ -58,7 +56,7 @@
 
       <b-button href="https://charchalk.com/?add-to-cart=745" variant="primary">ADD TO CART</b-button>
 
-  </b-card></a>
+  </b-card>
 
 
     </b-card-group>
