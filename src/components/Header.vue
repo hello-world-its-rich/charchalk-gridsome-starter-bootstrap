@@ -4,6 +4,10 @@
 <meta property="og:video:type" content="video/mp4" />
 <meta property="og:video:width" content="1280" />
 <meta property="og:video:height" content="720" />
+
+ <meta property="ix:srcAttribute" content="data-src">
+  <meta property="ix:srcsetAttribute" content="data-srcset">
+  <meta property="ix:sizesAttribute" content="data-sizes">
     <b-navbar class="p-0" toggleable="md" type="light">
        
       <b-navbar-toggle target="nav_collapse"></b-navbar-toggle>
