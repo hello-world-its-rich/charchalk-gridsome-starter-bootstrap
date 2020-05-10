@@ -24,6 +24,7 @@ export default {
 <style lang="scss">
 body, html {
   height: 100%;
+  background-color: #141414;
 }
 
 body {
@@ -42,5 +43,7 @@ body {
   flex: 1 0 auto;
   max-width: 1200px;
   margin: 0 auto;
+  padding-left: 20px; 
+  padding-right: 20px;
 }
 </style>
