@@ -1,12 +1,12 @@
 <template>
   <Layout>
     <div class="container">
-      <img class="logo-image" alt="logo" src="http://charchalk.imgix.net/2020/05/char.svg">
+      <img class="logo-image" alt="logo" src="https://charchalk.imgix.net/2020/05/char.svg">
 
 <div></div>
 </div>
 
-    <p class="">
+    <p class="text-center">
      Our wet-to-dry formula contains zero alcohol, won’t dry your hands out and leaves you with a long-lasting, secure grip. <br>The perfect addition to your at-home workouts.
      <br><br>
      All tubes are hand-poured in the USA 🇺🇸 
@@ -15,7 +15,7 @@
           <b-card-group deck>
   <b-card
     title="The Duo"
-    img-src="http://charchalk.imgix.net/2020/03/CHAR-Sept28_2019_039-1.png?auto=format"
+    img-src="https://charchalk.imgix.net/2020/03/CHAR-Sept28_2019_039-1.png?auto=format"
     img-alt="Image"
     img-top
     tag="article"
@@ -25,13 +25,13 @@
     text-variant="white"
   >
 <p class="price">$36.99</p>
-      <b-button href="https://charchalk.com/?add-to-cart=1067&utm_source=js&utm_medium=lp" variant="primary">ADD TO CART</b-button>
+      <b-button href="httpss://charchalk.com/?add-to-cart=1067&utm_source=js&utm_medium=lp" variant="primary">ADD TO CART</b-button>
 
   </b-card>
 
   <b-card
     title="Lunar Grey"
-    img-src="http://charchalk.imgix.net/2020/03/lunargreysidebyside.png?auto=format"
+    img-src="https://charchalk.imgix.net/2020/03/lunargreysidebyside.png?auto=format"
     img-alt="Image"
     img-top
     tag="article"
@@ -42,13 +42,13 @@
   >
 <p class="price">$22.99</p>
 
-      <b-button href="https://charchalk.com/?add-to-cart=848&utm_source=js&utm_medium=lp" variant="primary">ADD TO CART</b-button>
+      <b-button href="httpss://charchalk.com/?add-to-cart=848&utm_source=js&utm_medium=lp" variant="primary">ADD TO CART</b-button>
 
   </b-card> 
 
   <b-card
     title="The Duo"
-    img-src="http://charchalk.imgix.net/2020/03/volcanicblacksidebyside.png?auto=format"
+    img-src="https://charchalk.imgix.net/2020/03/volcanicblacksidebyside.png?auto=format"
     img-alt="Image"
     img-top
     tag="article"
@@ -59,7 +59,7 @@
   >
 <p class="price">$22.99</p>
 
-      <b-button href="https://charchalk.com/?add-to-cart=745&utm_source=js&utm_medium=lp" variant="primary">ADD TO CART</b-button>
+      <b-button href="httpss://charchalk.com/?add-to-cart=745&utm_source=js&utm_medium=lp" variant="primary">ADD TO CART</b-button>
 
   </b-card>
 
@@ -69,14 +69,14 @@
 
 </div>
 
-<h2 class="">Wholesale + Retail</h2>
-<p class="">Traditional white chalk can make a mess and become a nightmare to clean. CHAR is a premium alternative that is guaranteed to be a more hygienic experience than putting your hands in the communal chalk bucket. Take advantage of our wholesale pricing with our 10-pack and 20-pack cases that feature half Lunar Gray tubes and half Volcanic Black. Contact us for personalized options.</p>
+<h2 class="text-center">Wholesale + Retail</h2>
+<p class="text-center">Traditional white chalk can make a mess and become a nightmare to clean. CHAR is a premium alternative that is guaranteed to be a more hygienic experience than putting your hands in the communal chalk bucket. Take advantage of our wholesale pricing with our 10-pack and 20-pack cases that feature half Lunar Gray tubes and half Volcanic Black. Contact us for personalized options.</p>
 
  <b-card-group deck>
 
  <b-card
     title="10 Pack"
-      img-src="http://charchalk.imgix.net/2020/04/charbagmobile.jpg?auto=format&h=150&w=150"
+      img-src="https://charchalk.imgix.net/2020/04/charbagmobile.jpg?auto=format&h=150&w=150"
     img-alt="Image"
     img-top
     tag="article"
@@ -84,10 +84,10 @@
     class="mb-2 mx-auto text-center title"
     bg-variant="secondary"
     text-variant="white"
-    img-href="https://charchalk.com/?add-to-cart=1353"
+    img-href="httpss://charchalk.com/?add-to-cart=1353"
   >
 <p class="price">$149.94</p>
-      <b-button href="https://charchalk.com/?add-to-cart=1353&utm_source=js&utm_medium=l" variant="primary">ADD TO CART</b-button>
+      <b-button href="httpss://charchalk.com/?add-to-cart=1353&utm_source=js&utm_medium=l" variant="primary">ADD TO CART</b-button>
 
   </b-card>
 
@@ -95,7 +95,7 @@
   
   <b-card
     title="20 Pack"
-    img-src="http://charchalk.imgix.net/2020/04/CHAR-Sept28_2019_153.png?auto=format"
+    img-src="https://charchalk.imgix.net/2020/04/CHAR-Sept28_2019_153.png?auto=format"
     img-alt="Image"
     img-top
     tag="article"
@@ -108,7 +108,7 @@
 
 <p class="price">$249.94</p>
 
-      <b-button href="https://charchalk.com/?add-to-cart=1354&utm_source=js&utm_medium=l" variant="primary">ADD TO CART</b-button>
+      <b-button href="httpss://charchalk.com/?add-to-cart=1354&utm_source=js&utm_medium=l" variant="primary">ADD TO CART</b-button>
 
   </b-card>
 
@@ -157,12 +157,12 @@
 
     <h3 class="mt-5 mb-4">Getting started</h3>
     <p>The easiest way to get started quick is to use the Forestry button below, which will create a Github repository for you,
-      clone this starter repo and import all data to the CMS. After that is complete, you can just go to <a href="https://www.netlify.com/">Netlify</a>
+      clone this starter repo and import all data to the CMS. After that is complete, you can just go to <a href="httpss://www.netlify.com/">Netlify</a>
       and connect your newly created project that will set it up for automatic deployment when you commit to the Github repo.
     </p>
 
-    <a href="https://app.forestry.io/quick-start?repo=LokeCarlsson/gridsome-starter-bootstrap&amp;provider=github&amp;engine=vuepress" target="_blank" rel="nofollow">
-      <img class="mt-3 mb-3" src="https://camo.githubusercontent.com/2455e97e4e989374a355fb0bea7ad364f2561c92/68747470733a2f2f6173736574732e666f7265737472792e696f2f696d706f72742d746f2d666f7265737472794b2e737667" alt="Import this project into Forestry" data-canonical-src="https://assets.forestry.io/import-to-forestryK.svg" style="max-width:100%;" />
+    <a href="httpss://app.forestry.io/quick-start?repo=LokeCarlsson/gridsome-starter-bootstrap&amp;provider=github&amp;engine=vuepress" target="_blank" rel="nofollow">
+      <img class="mt-3 mb-3" src="httpss://camo.githubusercontent.com/2455e97e4e989374a355fb0bea7ad364f2561c92/68747470733a2f2f6173736574732e666f7265737472792e696f2f696d706f72742d746f2d666f7265737472794b2e737667" alt="Import this project into Forestry" data-canonical-src="httpss://assets.forestry.io/import-to-forestryK.svg" style="max-width:100%;" />
     </a>
 
     <h3 class="mt-4 mb-4">Netlify config</h3>
@@ -183,11 +183,11 @@
     <p>If you haven't already installed Gridsome CLI: <code>npm install --global @gridsome/cli</code></p>
 
     <ol>
-      <li><code>gridsome create my-gridsome-site https://github.com/LokeCarlsson/gridsome-starter-bootstrap.git</code></li>
+      <li><code>gridsome create my-gridsome-site httpss://github.com/LokeCarlsson/gridsome-starter-bootstrap.git</code></li>
 
       <li><code>cd my-gridsome-site</code> to open folder</li>
 
-      <li><code>yarn dev</code> to start local dev server at <code>http://localhost:8080</code></li>
+      <li><code>yarn dev</code> to start local dev server at <code>https://localhost:8080</code></li>
 
       <li>Happy hacking 🎉🙌</li>
     </ol> -->
