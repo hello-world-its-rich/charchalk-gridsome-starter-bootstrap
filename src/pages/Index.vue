@@ -3,7 +3,6 @@
     <div class="container">
       <img class="logo-image" alt="logo" src="https://charchalk.imgix.net/2020/05/char.svg">
 
-<div></div>
 </div>
 
     <p class="text-center">
@@ -11,6 +10,9 @@
      <br><br>
      All tubes are hand-poured in the USA 🇺🇸 
     </p>
+
+          <b-button href="https://charchalk.com/?add-to-cart=1067&utm_source=js&utm_medium=lp" variant="primary">ADD TO CART</b-button>
+
     <div>
           <b-card-group deck>
   <b-card
@@ -24,8 +26,11 @@
     bg-variant="secondary"
     text-variant="white"
   >
+
+  <p class="price">The Duo</p>
+
 <p class="price">$36.99</p>
-      <b-button href="httpss://charchalk.com/?add-to-cart=1067&utm_source=js&utm_medium=lp" variant="primary">ADD TO CART</b-button>
+      <b-button href="https://charchalk.com/?add-to-cart=1067&utm_source=js&utm_medium=lp" variant="primary">ADD TO CART</b-button>
 
   </b-card>
 
@@ -42,7 +47,7 @@
   >
 <p class="price">$22.99</p>
 
-      <b-button href="httpss://charchalk.com/?add-to-cart=848&utm_source=js&utm_medium=lp" variant="primary">ADD TO CART</b-button>
+      <b-button href="https://charchalk.com/?add-to-cart=848&utm_source=js&utm_medium=lp" variant="primary">ADD TO CART</b-button>
 
   </b-card> 
 
@@ -59,7 +64,7 @@
   >
 <p class="price">$22.99</p>
 
-      <b-button href="httpss://charchalk.com/?add-to-cart=745&utm_source=js&utm_medium=lp" variant="primary">ADD TO CART</b-button>
+      <b-button href="https://charchalk.com/?add-to-cart=745&utm_source=js&utm_medium=lp" variant="primary">ADD TO CART</b-button>
 
   </b-card>
 
@@ -84,14 +89,14 @@
     class="mb-2 mx-auto text-center title"
     bg-variant="secondary"
     text-variant="white"
-    img-href="httpss://charchalk.com/?add-to-cart=1353"
+    img-href="https://charchalk.com/?add-to-cart=1353"
   >
 <p class="price">$149.94</p>
-      <b-button href="httpss://charchalk.com/?add-to-cart=1353&utm_source=js&utm_medium=l" variant="primary">ADD TO CART</b-button>
+      <b-button href="https://charchalk.com/?add-to-cart=1353&utm_source=js&utm_medium=l" variant="primary">ADD TO CART</b-button>
 
   </b-card>
 
-<hr>
+
   
   <b-card
     title="20 Pack"
@@ -108,7 +113,7 @@
 
 <p class="price">$249.94</p>
 
-      <b-button href="httpss://charchalk.com/?add-to-cart=1354&utm_source=js&utm_medium=l" variant="primary">ADD TO CART</b-button>
+      <b-button href="https://charchalk.com/?add-to-cart=1354&utm_source=js&utm_medium=l" variant="primary">ADD TO CART</b-button>
 
   </b-card>
 
@@ -157,12 +162,12 @@
 
     <h3 class="mt-5 mb-4">Getting started</h3>
     <p>The easiest way to get started quick is to use the Forestry button below, which will create a Github repository for you,
-      clone this starter repo and import all data to the CMS. After that is complete, you can just go to <a href="httpss://www.netlify.com/">Netlify</a>
+      clone this starter repo and import all data to the CMS. After that is complete, you can just go to <a href="https://www.netlify.com/">Netlify</a>
       and connect your newly created project that will set it up for automatic deployment when you commit to the Github repo.
     </p>
 
-    <a href="httpss://app.forestry.io/quick-start?repo=LokeCarlsson/gridsome-starter-bootstrap&amp;provider=github&amp;engine=vuepress" target="_blank" rel="nofollow">
-      <img class="mt-3 mb-3" src="httpss://camo.githubusercontent.com/2455e97e4e989374a355fb0bea7ad364f2561c92/68747470733a2f2f6173736574732e666f7265737472792e696f2f696d706f72742d746f2d666f7265737472794b2e737667" alt="Import this project into Forestry" data-canonical-src="httpss://assets.forestry.io/import-to-forestryK.svg" style="max-width:100%;" />
+    <a href="https://app.forestry.io/quick-start?repo=LokeCarlsson/gridsome-starter-bootstrap&amp;provider=github&amp;engine=vuepress" target="_blank" rel="nofollow">
+      <img class="mt-3 mb-3" src="https://camo.githubusercontent.com/2455e97e4e989374a355fb0bea7ad364f2561c92/68747470733a2f2f6173736574732e666f7265737472792e696f2f696d706f72742d746f2d666f7265737472794b2e737667" alt="Import this project into Forestry" data-canonical-src="https://assets.forestry.io/import-to-forestryK.svg" style="max-width:100%;" />
     </a>
 
     <h3 class="mt-4 mb-4">Netlify config</h3>
@@ -183,7 +188,7 @@
     <p>If you haven't already installed Gridsome CLI: <code>npm install --global @gridsome/cli</code></p>
 
     <ol>
-      <li><code>gridsome create my-gridsome-site httpss://github.com/LokeCarlsson/gridsome-starter-bootstrap.git</code></li>
+      <li><code>gridsome create my-gridsome-site https://github.com/LokeCarlsson/gridsome-starter-bootstrap.git</code></li>
 
       <li><code>cd my-gridsome-site</code> to open folder</li>
 
@@ -197,22 +202,13 @@
 
 <script>
 export default {
-  
+  metaInfo: {
+    title: 'CHAR Chalk'
+  }
 }
 </script>
 
 <style>
-
-
-.card-img, .card-img-top {
-    border-top-left-radius: calc(0.25rem - 1px);
-    border-top-right-radius: calc(0.25rem - 1px);
-    border-radius: 3px;
-    -webkit-box-shadow: 0 8px 6px -6px black;
-    -moz-box-shadow: 0 8px 6px -6px black;
-    box-shadow: 0 8px 6px -6px black;
-    transition: transform .5s ease;
-}
 
 .navbar-light .navbar-toggler {display:none;}
 .greet-image {
@@ -236,7 +232,7 @@ p {        text-align: left;
          font-family: "Akkurat Mono";
 
 }
-footer, b-card, #app {background-color: #141414;}
+footer, b-card, #app {background-color: black;}
 
 h2, .title {
       text-align: left;
@@ -248,23 +244,8 @@ h2, .title {
 
 }
 
-hr {
-      border-top: 1px solid #cccccc;
-    max-width: 100%;
-    margin: auto;
-}
-
 b-card {
   text-align: center;
-}
-
-.card-body {
-    background-color: #141414;
-    border: none;
-}
-
-.card-deck .card {
-  border: none;
 }
 
 .logo-image {padding-bottom: 20px;}
@@ -275,7 +256,7 @@ b-card {
     justify-content: center;
 }
 
-template { background-color: #141414;}
+template { background-color: #000;}
 
 
 </style>
