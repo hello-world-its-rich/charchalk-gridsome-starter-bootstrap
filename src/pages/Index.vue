@@ -10,9 +10,6 @@
      <br><br>
      All tubes are hand-poured in the USA 🇺🇸 
     </p>
-
-          <b-button href="https://charchalk.com/?add-to-cart=1067&utm_source=js&utm_medium=lp" variant="primary">ADD TO CART</b-button>
-
     <div>
           <b-card-group deck>
   <b-card
