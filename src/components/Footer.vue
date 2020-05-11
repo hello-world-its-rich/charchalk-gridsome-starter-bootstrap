@@ -30,7 +30,7 @@
 </b-container>
 
 
-<b-container class="email">
+<!-- <b-container class="email">
 
     <b-row>
 
@@ -67,7 +67,7 @@
 
 
 </b-row>
-</b-container>
+</b-container> -->
 
 
   </footer>
