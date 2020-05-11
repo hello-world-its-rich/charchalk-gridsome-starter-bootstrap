@@ -91,7 +91,7 @@
 
   </b-card>
 
-<hr>
+
   
   <b-card
     title="20 Pack"
@@ -197,22 +197,13 @@
 
 <script>
 export default {
-  
+  metaInfo: {
+    title: 'CHAR Chalk'
+  }
 }
 </script>
 
 <style>
-
-
-.card-img, .card-img-top {
-    border-top-left-radius: calc(0.25rem - 1px);
-    border-top-right-radius: calc(0.25rem - 1px);
-    border-radius: 3px;
-    -webkit-box-shadow: 0 8px 6px -6px black;
-    -moz-box-shadow: 0 8px 6px -6px black;
-    box-shadow: 0 8px 6px -6px black;
-    transition: transform .5s ease;
-}
 
 .navbar-light .navbar-toggler {display:none;}
 .greet-image {
@@ -236,7 +227,7 @@ p {        text-align: left;
          font-family: "Akkurat Mono";
 
 }
-footer, b-card, #app {background-color: #141414;}
+footer, b-card, #app {background-color: black;}
 
 h2, .title {
       text-align: left;
@@ -248,23 +239,8 @@ h2, .title {
 
 }
 
-hr {
-      border-top: 1px solid #cccccc;
-    max-width: 100%;
-    margin: auto;
-}
-
 b-card {
   text-align: center;
-}
-
-.card-body {
-    background-color: #141414;
-    border: none;
-}
-
-.card-deck .card {
-  border: none;
 }
 
 .logo-image {padding-bottom: 20px;}
@@ -275,7 +251,7 @@ b-card {
     justify-content: center;
 }
 
-template { background-color: #141414;}
+template { background-color: #000;}
 
 
 </style>
