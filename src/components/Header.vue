@@ -5,8 +5,7 @@
 <meta property="og:video:width" content="1280" />
 <meta property="og:video:height" content="720" />
 
-       
-      <b-navbar-toggle target="nav_collapse"></b-navbar-toggle>
+<b-navbar>
       <b-collapse is-nav id="nav_collapse">
         <b-navbar-nav class="ml-auto">
           <g-link class="nav--link" to="/">Shop</g-link>
@@ -106,7 +105,10 @@ a.btn.btn-primary {
   @media (max-width: 419px) {
     margin: 0;
     padding: 15px 10px 10px 0;
+    display: none;
   }
+
+  
 }
 
 .active--exact {
