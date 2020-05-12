@@ -22,9 +22,10 @@
           <b-img-lazy
             class="product-image"
             src="https://charchalk.imgix.net/2020/03/CHAR-Sept28_2019_039-1.png?auto=format"
-            style="max-width: 20rem;"
             center
             rounded
+             width="320px"
+            height="300px"
           />
           <p class="producttitle">The Duo</p>
           <p class="price">$36.99</p>
@@ -41,9 +42,10 @@
 <b-img-lazy
             class="product-image"
             src="https://charchalk.imgix.net/2020/03/lunargreysidebyside.png?auto=format"
-            style="max-width: 20rem;"
             center
             rounded
+             width="320px"
+            height="300px"
           />
           <p class="producttitle">Lunar Grey</p>
           <p class="price">$36.99</p>
@@ -62,9 +64,10 @@
           <b-img-lazy
             class="product-image"
             src="https://charchalk.imgix.net/2020/03/volcanicblacksidebyside.png?auto=format"
-            style="max-width: 20rem;"
             center
             rounded
+             width="320px"
+            height="300px"
           />
           <p class="producttitle">Volcanic Black</p>
           <p class="price">$22.99</p>
@@ -235,7 +238,10 @@ export default {
 
 <style>
 
-
+.container {
+  padding-right: 5px;
+  padding-left: 5px;
+}
 
 .productimage {
   -webkit-box-shadow: 0 8px 6px -6px black;
