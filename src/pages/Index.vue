@@ -15,7 +15,7 @@
       All tubes are hand-poured in the USA 🇺🇸
     </p>
 
-    <b-container class="productcontainer">
+    <b-container fluid class="productcontainer">
       <b-row>
         <b-col>
           <a href="https://charchalk.com/?add-to-cart=1067&utm_source=js&utm_medium=lp">
@@ -92,7 +92,7 @@
     </p>
 
 
- <b-container class="productcontainer">
+ <b-container fluid class="productcontainer">
       <b-row class="mb-2 mx-auto text-center title">
         <b-col>
           <a href="https://charchalk.com/?add-to-cart=1353&utm_source=js&utm_medium=lp">
